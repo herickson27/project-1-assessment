@@ -1,0 +1,14 @@
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.initialCount {
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    text-align: center;
+}
+
